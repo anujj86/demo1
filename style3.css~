@@ -1,0 +1,28 @@
+.con
+{
+  background-color : #c4d2a4;
+  height : 100vh;
+}
+
+.grey
+{
+  background-color : blue;
+  color : white;
+}
+
+.gr
+{
+  background-color : orange;
+}
+
+.gr
+{
+  background-color : yellow;
+}
+
+
+.rowhieght
+{
+  background-color : #c1a1b1;
+  height: 40vh;
+}

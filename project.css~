@@ -1,0 +1,22 @@
+body
+{
+ background: url(canva-photo-editor.png) no-repeat center center fixed;
+ background-size :  cover;
+ font-family: 'Abril Fatface', cursive;
+}
+
+.rowhieght
+{
+  height:500px;
+}
+
+h1
+{
+ font-size:2.5em;
+}
+
+.bg
+{
+ background-color:#c1c1c1;
+ opacity: 0.8;
+}
